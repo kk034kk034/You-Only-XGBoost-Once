@@ -1,2 +1,2 @@
-# You-Only-XGBoost-Once
-I'm a AI/ML beginner :)
+# Kaggle機器學習競賽神器 -- XGBoost
+找題目玩玩
